@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">快手评论过滤</string>
+    <string name="module_description">按 IP 属地、关键词和用户过滤快手视频一级评论</string>
+    <string-array name="xposed_scope"><item>com.smile.gifmaker</item></string-array>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#00796B</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F6F7F9</item>
+        <item name="android:navigationBarColor">#F6F7F9</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
